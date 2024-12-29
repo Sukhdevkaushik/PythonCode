@@ -1,4 +1,17 @@
 ------------------------------------------------------------
 moore voting algorithm
-
  1.Majority_Element_II => D:\Program\PythonCode\course\Array_programs
+
+------------------------------------------------------------
+Sliding Window Algorithm
+ 1.D:\Program\PythonCode\course\Array_programs\Stock Buy and Sell – Max one Transaction Allowed
+
+------------------------------------------------------------
+Kadane's Algorithm
+
+Kadane's Algorithm is a popular Dynamic Programming (DP) algorithm used to find the maximum sum subarray in a given array.
+	 1.D:\Program\course\Array_programs\Kadane's Algorithm
+         2.Maximum_Product_Subarray => D:\Program\course\Array_programs\Maximum Product Subarray.py
+	 3.Max Circular Subarray Sum => D:\Program\course\Array_programs\circularSubarraySum.py
+ 
+
