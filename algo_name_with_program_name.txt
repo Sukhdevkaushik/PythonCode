@@ -14,4 +14,12 @@ Kadane's Algorithm is a popular Dynamic Programming (DP) algorithm used to find 
          2.Maximum_Product_Subarray => D:\Program\course\Array_programs\Maximum Product Subarray.py
 	 3.Max Circular Subarray Sum => D:\Program\course\Array_programs\circularSubarraySum.py
  
+----------------------------------------------------------------------------------------------------------------------------
+Frequency counting approach.
+ The frequency count approach is used to compare or count the characters in a string. In this approach, a dictionary is used to store each character as a key and its occurrence count as the value. This helps to determine the number of occurrences of each character efficiently.
+ 1. d:/Program/PythonCode/course/string/Anagram.py => Anagram
+
+
+
+
 
