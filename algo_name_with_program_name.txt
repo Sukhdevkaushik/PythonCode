@@ -19,7 +19,15 @@ Frequency counting approach.
  The frequency count approach is used to compare or count the characters in a string. In this approach, a dictionary is used to store each character as a key and its occurrence count as the value. This helps to determine the number of occurrences of each character efficiently.
  1. d:/Program/PythonCode/course/string/Anagram.py => Anagram
  2. d:/Program/PythonCode/course/string/non_rep_char.py => Non Repeating Character 
+-----------------------------------------------------------------------------------------------------------------------------
+KMP Algorithm.
+KMP uses the structure of the pattern to avoid redundant comparisons. it preprocesses the pattern string and creates an array called the longest prefix suffix(lps) array which indicates how much of the pattern can be reused after a mismatch.
+  LPS is the Longest Proper Prefix which is also a Suffix. A proper prefix is a prefix that doesn't include whole string. For example prefixes of "abc" are "","a","ab" and "abc" but proper
+  prefixes are "',"a" and "ab" only. Suffixes of the string are "","c","bc", and "abc".
+1.d:/Program/PythonCode/course/string/pattern_searching_kmp_algo.py => Search Pattern (KMP-Algorithm
+2.D:\Program\PythonCode\course\string\Strings_Rotations.py => Strings_Rotations
 
+ 
 
 
 
