@@ -26,6 +26,11 @@ KMP uses the structure of the pattern to avoid redundant comparisons. it preproc
   prefixes are "',"a" and "ab" only. Suffixes of the string are "","c","bc", and "abc".
 1.d:/Program/PythonCode/course/string/pattern_searching_kmp_algo.py => Search Pattern (KMP-Algorithm
 2.D:\Program\PythonCode\course\string\Strings_Rotations.py => Strings_Rotations
+----------------------------------------------------------------------------------------------------------------------------
+DNF(Dutch National Flag Problem) Algorithm.
+The Dutch National Flag Problem, proposed by computer scientist Edsger Dijkstra, is a classic algorithmic problem. It focuses on sorting an array with three distinct elements, often represented as 0, 1, and 2,into a specific order: all 0's, followed by 1's, and then 2's.This is typically done in a single pass with O[n] time complexity and O(1) space complexity.
+
+ D:\Program\PythonCode\course\sort\sort_array_0_1_2.py => sort_array_0_1_2
 
  
 
